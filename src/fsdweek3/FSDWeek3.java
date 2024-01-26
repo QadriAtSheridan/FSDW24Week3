@@ -16,7 +16,7 @@ public class FSDWeek3 {
     public static void main(String[] args) {
         // TODO code application logic here
         int a = 24;
-        String cinema = "A24";
+        String cinemaDistributor1 = "A24";
     }
     
 }
